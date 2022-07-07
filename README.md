@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer</h3>
 
 - 🔭 I’m currently working on: My website (bubasek.tk), Website for GTA RolePlay server (dtrp.eu)
-- 🌱 I’m currently learning:nothing... :D
+- 🌱 I’m currently learning: nothing... :D
 
 - My  Website: <a href="https://bubasek.tk/" target="blank"> bubasek.tk </a>
 
