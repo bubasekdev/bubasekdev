@@ -1,4 +1,5 @@
-I'll make a new readme soon, don't worry :D
+<h1 align="center">I'll make a new readme soon, don't worry :D</h1>
+<h3 align"center">Read more about me here what I wrote in 2022 :D</h3>
 
 
 <h1 align="center">bubasekdev</h1>
