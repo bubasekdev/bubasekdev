@@ -1,3 +1,6 @@
+I'll make a new readme soon, don't worry :D
+
+
 <h1 align="center">bubasekdev</h1>
 <h3 align="center">Front-end Developer</h3>
 
