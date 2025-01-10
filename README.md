@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ~ Hi, my name is Jakub, I'm 17 years old and I'm a front-end developer.<br>🖥️ ~ Currently I'm working on two projects and learning new programming languages.
+👋 ~ Hi, my name is Jakub, I'm 18 years old and I'm a front-end developer.<br>🖥️ ~ Currently I'm working on two projects and learning new programming languages.
 
 
 ## 🌐 Socials:
