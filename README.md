@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ~ Hi, my name is Jakub, I'm 19 years old and I'm currently a high school student. In my free time, I occasionally edit videos and also learn about Linux and servers in general.<br>🖥️ ~ Currently I'm not working on new projects. :(
+👋 ~ Hi, my name is Jakub, I'm 19 years old and I'm currently a student at a secondary technical school. In my free time, I occasionally edit videos and also learn about Linux and servers in general.<br>🖥️ ~ Currently I'm not working on new projects. :(
 
 
 ## 🌐 Socials:
